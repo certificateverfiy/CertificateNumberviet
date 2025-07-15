@@ -1,2 +1,0 @@
-# CertificateNumberviet
-Website for CertificateNumberVietnam
